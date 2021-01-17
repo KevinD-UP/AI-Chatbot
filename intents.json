@@ -1,0 +1,22 @@
+{"intents": [
+  {"tag":  "greetings",
+  "patterns":  ["Hello", "Hey", "hi", "good day", "greetings"],
+  "responses": ["Hello!", "Hey!", "Sir ?", "What can I do for you ?", "Hello, good to see you :)", "Greetings sir", "Hi !"]
+  },
+  {"tag":  "feeling",
+  "patterns":  ["How are you ?", "what's up ?", "how is it going ?"],
+  "responses": ["Feels great!", "A little tired master...", "perfectly fine :)", "I'm happy to see you :)"]
+  },
+  {"tag":  "goodbye",
+  "patterns":  ["cya", "see you later", "goodbye", "i am leaving", "have a good day", "have a nice day", "bye", "ciao", "see ya"],
+  "responses": ["See you later !", "Goodbye !", "As you wish master !"]
+  },
+  {"tag":  "age",
+  "patterns":  ["How old am i ?", "age ?", "what's my age ?"],
+  "responses": ["you're 20 years old master"]
+  },
+  {"tag":  "name",
+  "patterns":  ["What is your name ?", "What's your name ?", "What should i call you ?", "Who are you ?", "Tell me your name ?"],
+  "responses": ["I'm Evy, your personal assistant", "Thy name is Evy and i'm your personal chatbot", "My name is Evy and you have personally program me :)"]
+  }
+]}
